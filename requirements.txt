@@ -1,0 +1,6 @@
+ipykernel
+transformers
+streamlit
+python-dotenv
+torch
+peft
